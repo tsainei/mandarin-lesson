@@ -20,7 +20,7 @@ International Relations, Rey Juan Carlos University, Madrid
 
 - Each lesson:15USD
 - 5 lesson package:70USD
-- Payment mechod: cryptocurrencies, Payoneer and Paypal
+- Payment mechod: Cryptocurrencies(Nano, Bitcoin, Lightcoin, etc.), Payoneer and Paypal
 
 
 [Link](url) and ![Image](src)
