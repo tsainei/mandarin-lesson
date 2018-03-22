@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Mandarin Chinese (Traditional and Simplified) Teacher
 
-You can use the [editor on GitHub](https://github.com/tsainei/mandarin-lesson/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, 
+I am Ni, from Taiwan. I studied Teaching Chinese as Second Language at the university. I have experience in teaching Chinese and language exchange. I know both traditional and simplified Chinese, and I know zhuyin and pinyin. I prefer to teach Chinese in Chinese. Don't worry if you don't understand. I will use a lot of props and gestures to help you. I want to create a cozy environment for you to speak Chinese, and eventually you can improve your speaking with ease. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education Degree
+-學歷：臺灣國立政治大學民族系 （輔修阿拉伯語文與文學系與華語教學)
+-西班牙馬德里查理士國王大學國際關系學系 
+-經歷：語言交換、華語教學、英語教學與中英翻譯 
+-證照：TOEIC 925 TOEFL iBT 100 
+-教學：華語-精通簡體(拼音)與繁體(注音）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Education Degree：Ethnology, National Chengchi University (Minor in Arabic Language and Literature & Teaching Chinese as Second Language)
+International Relations, Rey Juan Carlos University, Madrid 
+-Experience: Language exchange, Chinese teaching, English teaching and Chinese-English Translation
+- Language certificate: TOEIC 925 TOEFL iBT 100 
+-Teaching: Chinese-Traditional Chinese(Zhuyin) and Simplified Chinese(Pinyin)
 
-```markdown
-Syntax highlighted code block
+### Lesson Information
 
-# Header 1
-## Header 2
-### Header 3
+-Each lesson:15USD
+-5 lesson package:70USD
+-Payment mechod: cryptocurrencies, Payoneer and Paypal
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsainei/mandarin-lesson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
