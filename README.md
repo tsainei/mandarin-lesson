@@ -1,4 +1,3 @@
-## Mandarin Chinese (Traditional and Simplified) Teacher
 
 Hello, 
 I am Ni, from Taiwan. I studied Teaching Chinese as Second Language at the university. I have experience in teaching Chinese and language exchange. I know both traditional and simplified Chinese, and I know zhuyin and pinyin. I prefer to teach Chinese in Chinese. Don't worry if you don't understand. I will use a lot of props and gestures to help you. I want to create a cozy environment for you to speak Chinese, and eventually you can improve your speaking with ease. 
