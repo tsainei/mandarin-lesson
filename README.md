@@ -15,7 +15,7 @@ International Relations, Rey Juan Carlos University, Madrid
 ### Lesson Information
 - Each lesson's lenghth is 50 minutes
 - Skype Lesson: video and audio included 
-- Price: Each lesson:15 USD /5 lesson package:65 USD 
+- Price: Each lesson:13 USD /5 lesson package:63 USD 
 - Payment mechod: Cryptocurrencies (Nano, Bitcoin, Litecoin, etc.), Payoneer and Paypal(+5% extra)
 
 ### Cancellation Policy
