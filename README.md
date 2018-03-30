@@ -13,9 +13,9 @@ International Relations, Rey Juan Carlos University, Madrid
 - Teaching: Chinese-Traditional Chinese (Zhuyin) and Simplified Chinese (Pinyin)
 
 ### Lesson Information
-- Each lesson is 50 minutes
+- Each lesson's lenghth is 50 minutes
 - Skype Lesson: video and audio included
-- Price:Each lesson:15 USD /5 lesson package:70 USD
+- Price:Each lesson:15 USD /5 lesson package:65 USD and transfter commison
 - Payment mechod: Cryptocurrencies (Nano, Bitcoin, Litecoin, etc.), Payoneer and Paypal
 
 ### Cancellation Policy
